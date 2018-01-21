@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNative_Kotlin_Bridge'
+
+include ':app'
