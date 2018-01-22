@@ -13,7 +13,7 @@ cd ReactNative_Kotlin_Bridge
 npm install
 react-native run-android
 ```
-Or if you are feeling lazy get the [ReactNative_Kotlin_Bridge.apk](https://github.com/valdio/ReactNative_Kotlin_Bridge/blob/master/APK/ReactNative_Kotlin_Bridge.apk)
+Or if you are feeling lazy get the [ReactNative_Kotlin_Bridge.apk](https://github.com/valdio/ReactNative_Kotlin_Bridge/blob/master/APK/ReactNative_Kotlin_Bridge.apk?raw=true)
 
 ## The app in play
 
